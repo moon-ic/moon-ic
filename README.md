@@ -2,7 +2,7 @@ Hi！ i am moon-ic!
 
 A Front-end infrastructure and engineering efficiency developer. 😉
 
-this is my blog address[](https://moon-ic.github.io/)
+this is my blog address(https://moon-ic.github.io/)
 
 ![](https://github-readme-stats.vercel.app/api?username=moon-ic&show_icons=true&theme=transparent)
 
